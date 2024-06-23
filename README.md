@@ -16,7 +16,7 @@ This repository demonstrates image classification using transfer learning and fi
    - Applies `mobilenet.preprocess_input` for pre-processing specific to the MobileNet model.
    - Creates data generators for training, validation, and testing.
 
-## Transfer Learning with MobileNet
+## Transfer Learning
 
 ### Load Pre-trained Model:
    - Loads the pre-trained VGG16 model (you can experiment with other models like MobileNet as used in the data preprocessing).
