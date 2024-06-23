@@ -1,4 +1,4 @@
-# Fine-Tuning-VGG16 - Image Classification with Transfer Learning and Fine-Tuning
+# Fine Tuning VGG16 - Image Classification with Transfer Learning and Fine-Tuning
 This repository demonstrates image classification using transfer learning and fine-tuning with TensorFlow and Keras. Here's how it works:
 
 ## Data
